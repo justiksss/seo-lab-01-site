@@ -16,8 +16,7 @@
 ## Публікація на GitHub Pages
 
 1. Створіть репозиторій `seo-lab-01-site` на GitHub.
-2. Замініть `USERNAME` у `sitemap.xml`, `robots.txt`, `index.html` (canonical) на ваш логін GitHub.
-3. Завантажте файли (`git push`).
+2. Завантажте файли (`git push`).
 4. **Settings → Pages → Source:** Deploy from branch `main`, folder `/ (root)`.
 5. Сайт: `https://ВАШ_ЛОГІН.github.io/seo-lab-01-site/`
 

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Замініть BASE_URL на ваш GitHub Pages URL після публікації -->
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/about.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/contact.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/faq.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/glossary.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/page-no-title.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/services/web.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/services/seo.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/blog/post-1.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/blog/post-2.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/blog/post-duplicate-a.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/blog/post-duplicate-b.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/redirect-a.html</loc></url>
-  <url><loc>https://USERNAME.github.io/seo-lab-01-site/redirect-final.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/about.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/contact.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/faq.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/glossary.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/page-no-title.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/services/web.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/services/seo.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/blog/post-1.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/blog/post-2.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/blog/post-duplicate-a.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/blog/post-duplicate-b.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/redirect-a.html</loc></url>
+  <url><loc>https://justiksss.github.io/seo-lab-01-site/redirect-final.html</loc></url>
 </urlset>
