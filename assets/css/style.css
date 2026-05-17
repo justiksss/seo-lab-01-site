@@ -1,0 +1,14 @@
+* { box-sizing: border-box; }
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  color: #1a1a1a;
+  background: #f8f9fa;
+}
+header nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
+header a { color: #0b57d0; }
+main { background: #fff; padding: 1.5rem; border-radius: 8px; }
+footer { margin-top: 2rem; font-size: 0.875rem; color: #666; }
