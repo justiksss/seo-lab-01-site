@@ -2,16 +2,74 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <title>FAQ — SEO Lab</title>
-  <meta name="description" content="Часті питання про технічний SEO-аудит.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQ технічного SEO | Відповіді GSC і аудиту | SEO Lab</title>
+  <meta name="description" content="Часті питання про індексацію, sitemap і baseline-метрики. Короткі відповіді для лабораторної з SEO. Знайдіть відповідь у розділі FAQ!">
+  <link rel="canonical" href="https://justiksss.github.io/seo-lab-01-site/faq.html">
   <link rel="stylesheet" href="assets/css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Навіщо фіксувати baseline-метрики?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Baseline-метрики показують вихідний стан сайту до оптимізації. Після виправлень їх порівнюють з новими даними GSC і Seobility, щоб об'єктивно оцінити ефект робіт."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Що таке технічний SEO-аудит?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Технічний SEO-аудит — перевірка індексації, статус-кодів, редиректів, дублікатів і метаданих. Його мета — усунути перешкоди для краулінгу та ранжування."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Як перевірити Schema.org розмітку?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Після додавання JSON-LD у HTML перевірте сторінку в Google Rich Results Test. Статус Valid означає, що розмітку Google може обробити без критичних помилок."
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
-  <header><nav><a href="index.html">Головна</a></nav></header>
+  <header>
+    <nav>
+      <a href="index.html">Головна</a>
+      <a href="blog/post-1.html">Блог</a>
+      <a href="glossary.html">Глосарій</a>
+      <a href="contact.html">Контакти</a>
+    </nav>
+  </header>
   <main>
-    <h1>FAQ</h1>
-    <p><strong>Навіщо baseline-метрики?</strong> Щоб порівняти стан до і після виправлень.</p>
-    <p><a href="old-article-removed.html">Старе посилання (404)</a></p>
+    <h1>FAQ — технічний SEO</h1>
+
+    <h2>Навіщо baseline-метрики?</h2>
+    <p>Щоб порівняти стан до і після виправлень у <a href="blog/post-2.html">Google Search Console</a> та Seobility.</p>
+
+    <h2>Що таке технічний SEO-аудит?</h2>
+    <p>
+      Це комплекс перевірок індексації та помилок; детальніше — у статті
+      <a href="blog/post-1.html">що таке технічний SEO</a> та в розділі
+      <a href="services/seo.html">SEO-аудит сайту</a>.
+    </p>
+
+    <h2>Як перевірити Schema.org?</h2>
+    <p>
+      Використовуйте Rich Results Test для сторінок з JSON-LD, наприклад цієї FAQ-сторінки або
+      <a href="blog/post-1.html">статті в блозі</a>.
+    </p>
+
+    <p><a href="index.html">Повернутися на головну</a> · <a href="glossary.html">Глосарій термінів SEO</a></p>
   </main>
+  <footer><p>SEO Lab</p></footer>
 </body>
 </html>
