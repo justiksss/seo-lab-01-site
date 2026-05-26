@@ -26,6 +26,14 @@
 - Скріншоти для PDF: `docs/lab-03-screenshots.md`
 - Таблиця зображень: `docs/lab-03-image-inventory.md`
 
+## Lab 05 — Google Analytics 4
+
+- **Measurement ID:** `G-V5T631333Z` (gtag у `<head>`, події в `assets/js/ga-events.js`)
+- **Google Doc (lab5_yudin):** https://docs.google.com/document/d/1WydBuVXxN3M-NYrMZFiZxOPZMv-AH9BgXQ36KeRy50s/edit
+- Звіт (Markdown): `docs/lab-05-report.md`
+- Скріншоти для PDF: `docs/lab-05-screenshots.md`
+- Методичка: [lab-05.md](https://github.com/olroi421/course-seo/blob/main/labs/lab-05.md)
+
 ## Локальний перегляд
 
 ```bash
