@@ -1,4 +1,9 @@
 User-agent: *
+Disallow: /redirect-a.html
+Disallow: /redirect-b.html
+Disallow: /redirect-c.html
+Disallow: /duplicate-title-1.html
+Disallow: /duplicate-title-2.html
 Allow: /
 
 Sitemap: https://justiksss.github.io/seo-lab-01-site/sitemap.xml

@@ -20,6 +20,12 @@
 4. **Settings → Pages → Source:** Deploy from branch `main`, folder `/ (root)`.
 5. Сайт: `https://ВАШ_ЛОГІН.github.io/seo-lab-01-site/`
 
+## Lab 03 — технічна оптимізація
+
+- Звіт (Markdown): `docs/lab-03-report.md`
+- Скріншоти для PDF: `docs/lab-03-screenshots.md`
+- Таблиця зображень: `docs/lab-03-image-inventory.md`
+
 ## Локальний перегляд
 
 ```bash

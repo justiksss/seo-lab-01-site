@@ -12,3 +12,29 @@ header nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
 header a { color: #0b57d0; }
 main { background: #fff; padding: 1.5rem; border-radius: 8px; }
 footer { margin-top: 2rem; font-size: 0.875rem; color: #666; }
+.hero-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+.image-gallery picture,
+.image-gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+.content-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
